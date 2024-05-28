@@ -1,7 +1,7 @@
 # Active Directory Lab
 ## Objective
 
-The Active Directory Lab aimed to create and configure an on-prem Active Directory Domain Controller and virtual network.
+The Active Directory Lab aimed to create and configure an on-prem Active Directory Domain Controller and virtual network. After set up use powershell to use a script which will allow adding a large list of users to Active Directory.
 
 ### Skills Learned
 
